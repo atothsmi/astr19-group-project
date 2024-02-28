@@ -6,5 +6,11 @@ https://colab.research.google.com/drive/1ujDxnnzjmm1k9jRSxXM9C1CmFy7CBfv7?usp=sh
 sup
 
 2/21/24
-we imported the packages and separated the work
+We imported the packages we thought we would need for the project and 
+began to work on the project.
+
+2/28/24
+We tested different ways of formatting the data (datetime, pandas, loadtxt) and finding the best fit (curve_fit, TensorFlow, different oscillatory functions)
+
+
 
